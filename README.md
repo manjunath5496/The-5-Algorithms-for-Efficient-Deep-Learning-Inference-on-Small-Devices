@@ -38,8 +38,9 @@
   </ul> 
   
   
-    </br>
-  <h2>Trained Ternary Quantization: </h2>
+</br>
+
+<h2>Trained Ternary Quantization: </h2>
 
 <ul>
   
