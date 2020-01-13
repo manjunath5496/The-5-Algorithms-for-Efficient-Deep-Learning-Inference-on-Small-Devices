@@ -24,6 +24,6 @@
 
 <ul>
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-5-Algorithms-for-Efficient-Deep-Learning-Inference-on-Small-Devices/blob/master/aed(6).pdf" style="text-decoration:none;">Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-5-Algorithms-for-Efficient-Deep-Learning-Inference-on-Small-Devices/blob/master/aed(6).pdf" style="text-decoration:none;">Going Deeper with Embedded FPGA Platform for Convolutional Neural Network</a></b></li>
   
   </ul>
