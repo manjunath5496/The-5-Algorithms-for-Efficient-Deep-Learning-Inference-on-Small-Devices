@@ -27,3 +27,20 @@
   <li><b><a target="_blank" href="https://github.com/manjunath5496/The-5-Algorithms-for-Efficient-Deep-Learning-Inference-on-Small-Devices/blob/master/aed(6).pdf" style="text-decoration:none;">Going Deeper with Embedded FPGA Platform for Convolutional Neural Network</a></b></li>
   
   </ul>
+  
+  </br>
+  <h2>Low-Rank Approximation: </h2>
+
+<ul>
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-5-Algorithms-for-Efficient-Deep-Learning-Inference-on-Small-Devices/blob/master/aed(7).pdf" style="text-decoration:none;">Efficient and Accurate Approximations of Nonlinear Convolutional Networks</a></b></li>
+  
+  </ul> 
+  
+  
+  
+  
+  
+  
+  
+  
