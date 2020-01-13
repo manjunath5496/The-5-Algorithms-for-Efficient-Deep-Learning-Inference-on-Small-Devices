@@ -1,1 +1,7 @@
-# The-5-Algorithms-for-Efficient-Deep-Learning-Inference-on-Small-Devices
+<h2>Pruning Neural Networks: </h2>
+
+<ul>
+  
+  
+  
+  </ul>
