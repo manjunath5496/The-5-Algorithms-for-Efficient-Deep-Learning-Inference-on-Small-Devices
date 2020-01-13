@@ -19,3 +19,11 @@
   <li><b><a target="_blank" href="https://github.com/manjunath5496/The-5-Algorithms-for-Efficient-Deep-Learning-Inference-on-Small-Devices/blob/master/aed(5).pdf" style="text-decoration:none;">Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding</a></b></li>
   
   </ul>
+ </br>
+  <h2>Data Quantization: </h2>
+
+<ul>
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-5-Algorithms-for-Efficient-Deep-Learning-Inference-on-Small-Devices/blob/master/aed(6).pdf" style="text-decoration:none;">Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding</a></b></li>
+  
+  </ul>
